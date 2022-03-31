@@ -68,7 +68,6 @@ public class LunchOrder {
         this.veggies = builder.veggies;
         this.meat = builder.meat;
     }
-
     public String getBread() {
         return bread;
     }
