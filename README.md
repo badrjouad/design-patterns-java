@@ -1,6 +1,6 @@
 # design-patterns-java
 
-this repository contains an example of each design pattern types ( creational / behavioral / structural ) in Java
+this repository contains an example of each design pattern type ( creational / behavioral / structural ) in Java
 
 ## INSPIRED BY 
  
